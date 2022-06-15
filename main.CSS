@@ -1,0 +1,16 @@
+h1 {
+    color: ghostwhite;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 2em;
+    margin-top: 2cm;
+}
+
+img{
+    border-radius: 10px;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
